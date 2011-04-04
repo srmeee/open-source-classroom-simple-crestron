@@ -1,0 +1,7 @@
+#summary Coding Style and Standards.
+#labels Featured
+
+= Introduction =
+
+Look here for general comments on style and standards we will employ with this project.
+
