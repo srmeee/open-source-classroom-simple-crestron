@@ -1,0 +1,6 @@
+#summary Want to contribute to the project?
+#labels Featured
+
+= How To: =
+
+Email me at mail://richard.blackwell@avworkz.com and i will add you to the developers list or the commenters list.
