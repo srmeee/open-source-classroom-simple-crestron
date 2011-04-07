@@ -4,3 +4,5 @@
 = How To: =
 
 Email me at mail://richard.blackwell@avworkz.com and i will add you to the developers list or the commenters list.
+Developers will be writing code.
+Commenters will be aiding in design and testing.
